@@ -6,10 +6,12 @@ Hi 👋 My name is Ilnaz
 
 Welcome to my github profile! I love code and coffee !
 * 🌍  I'm based in Kazan
-* ✉️  You can contact me at
+* 📫  You can find my CV [here](https://cv.hexlet.io/ru/resumes/3863)
+* ✉️  How to reach me
 
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NYNZE)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cicadalk@gmail.com) 
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cicadalk@gmail.com)
+
 
 ### Skills
 
