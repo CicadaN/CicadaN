@@ -6,7 +6,7 @@ Hi 👋 My name is Ilnaz
 
 Welcome to my github profile! I love code and coffee !
 * 🌍  I'm based in Kazan
-* 📫  You can find my CV [here](https://cv.hexlet.io/ru/resumes/3863)
+* 📫  You can find my CV [here](https://drive.google.com/file/d/1Bm3i-m7VKPtds1aw-nkF__BIBZe98yHx/view?usp=sharing) 
 * ✉️  How to reach me
 
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NYNZE)
